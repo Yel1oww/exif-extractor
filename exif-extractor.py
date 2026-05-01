@@ -2,7 +2,6 @@
 --------------------------------------------------------------------------------
 PROGRAM: Exif Extractor
 AUTHOR:  Yel1oww
-VERSION: 1.0
 PURPOSE: A digital forensics tool designed to audit and extract hidden 
          metadata (EXIF) from image files for OSINT and investigation.
 --------------------------------------------------------------------------------
