@@ -1,4 +1,4 @@
-# Exif Extractor v1.0
+# Exif Extractor
 
 **Exif Extractor** is a lightweight digital forensics tool designed to audit and extract hidden metadata (EXIF) from image files. It is specifically built for OSINT (Open Source Intelligence) and investigative purposes to reveal details like camera settings, timestamps, and geolocation data.
 
